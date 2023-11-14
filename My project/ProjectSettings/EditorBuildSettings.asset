@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/island1.unity
+    guid: 09ebf7ac8c36bbc4299c06551a1a01ac
+  - enabled: 1
+    path: Assets/Scenes/island1_1.unity
+    guid: d6baae057b90b0641b4779c05f2a934d
+  - enabled: 1
+    path: Assets/Scenes/island2memorygame.unity
+    guid: f119e5c23987205448c5a8604afc1b59
+  - enabled: 1
+    path: Assets/Scenes/island3_1.unity
+    guid: 8f20b6754dbe02d48aab46ba4d6d08b5
+  - enabled: 1
+    path: Assets/Scenes/island3_2.unity
+    guid: 93b648afcb88f3342b162272d3945f7e
+  - enabled: 1
+    path: Assets/Scenes/island3_3.unity
+    guid: 209b1faab0a49f540adee9d5c766cac7
+  - enabled: 1
+    path: Assets/Scenes/island3_4.unity
+    guid: 489f31da536c0d54fb908ea19004d45c
+  m_configObjects: {}
