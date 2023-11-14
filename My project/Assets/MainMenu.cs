@@ -19,6 +19,18 @@ public string scene2Name = "island1_1"; // Replace with the name of your second 
         string sceneToLoad = (randomIndex == 0) ? scene1Name : scene2Name;
         SceneManager.LoadScene(sceneToLoad);
     }
+
+    public void Island2()
+    {
+        // Change the scene when the asset is clicked
+        SceneManager.LoadScene("island2memorygame");
+    }
+
+    public void Island3()
+    {
+        // Change the scene when the asset is clicked
+        SceneManager.LoadScene("island3_1");
+    }
 }
 
 
