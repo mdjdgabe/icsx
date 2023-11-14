@@ -40,7 +40,7 @@ public class VaraRotateNew : MonoBehaviour
     void ChangeScene()
     {
         // Change the scene using the SceneManager
-        SceneManager.LoadScene("island3_1"); // Replace "YourSceneName" with the actual scene name
+        SceneManager.LoadScene("island3_8_1"); // Replace "YourSceneName" with the actual scene name
     }
 
     void OnMouseEnter()

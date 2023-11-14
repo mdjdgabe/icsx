@@ -35,4 +35,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/island3_7.unity
     guid: cc822eb8373d2cb4a83a5a5e0b2419b7
+  - enabled: 1
+    path: Assets/Scenes/island3_8_1.unity
+    guid: 82d90dca21132054fa7c82117b22b820
+  - enabled: 1
+    path: Assets/Scenes/island3_8_2.unity
+    guid: e7f6ef1f053296e4a98786d054ae30af
   m_configObjects: {}
