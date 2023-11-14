@@ -90,7 +90,7 @@ public class GameControllerScript : MonoBehaviour
         if(firstOpen.spriteId == secondOpen.spriteId) // Compares the two objects
         {
             score++;
-            scoreText.text = "Score: " + score;
+            scoreText.text = "Pontos: " + score;
         }
         else
         {
@@ -101,7 +101,7 @@ public class GameControllerScript : MonoBehaviour
         }    
 
         attempts++;
-        attemptsText.text = "Attempts: " + attempts;
+        attemptsText.text = "Tentativas: " + attempts;
 
         firstOpen = null;
         secondOpen = null;
