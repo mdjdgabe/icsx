@@ -40,6 +40,11 @@ public string scene4Name = "island2slidingpuzzle";
         // Change the scene when the asset is clicked
         SceneManager.LoadScene("island3_1");
     }
+
+    public void SolIcon(){
+        SceneManager.LoadScene("solscene");
+        
+    }
 }
 
 
