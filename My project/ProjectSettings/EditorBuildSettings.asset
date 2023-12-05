@@ -18,6 +18,15 @@ EditorBuildSettings:
     path: Assets/Scenes/island2memorygame.unity
     guid: f119e5c23987205448c5a8604afc1b59
   - enabled: 1
+    path: Assets/Scenes/slidingpuzzleintro.unity
+    guid: 17f22a14617089b4fbd7919c8db64a7a
+  - enabled: 1
+    path: Assets/Scenes/island2slidingpuzzle_easy.unity
+    guid: 8d59aebf86cdda04ea0f89f58464a368
+  - enabled: 1
+    path: Assets/Scenes/island2slidingpuzzle_medium.unity
+    guid: 64b7c55992c07174bac90fd24c5133d6
+  - enabled: 1
     path: Assets/Scenes/island2slidingpuzzle.unity
     guid: 08c282967a86eba4c918353390ad0c22
   - enabled: 1

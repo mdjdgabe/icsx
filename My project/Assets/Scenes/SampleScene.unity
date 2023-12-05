@@ -566,7 +566,7 @@ MonoBehaviour:
   scene1Name: island1
   scene2Name: island1_1
   scene3Name: island2memorygame
-  scene4Name: island2slidingpuzzle
+  scene4Name: slidingpuzzleintro
 --- !u!1 &1312595389
 GameObject:
   m_ObjectHideFlags: 0

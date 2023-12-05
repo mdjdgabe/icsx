@@ -8,7 +8,7 @@ public class MainMenu : MonoBehaviour
 public string scene1Name = "island1"; // Replace with the name of your first scene
 public string scene2Name = "island1_1"; // Replace with the name of your second scene
 public string scene3Name = "island2memorygame";
-public string scene4Name = "island2slidingpuzzle";
+public string scene4Name = "slidingpuzzleintro";
 
 
 
